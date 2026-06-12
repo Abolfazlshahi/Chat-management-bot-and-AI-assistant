@@ -1,4 +1,4 @@
-# pythash bot
+# pythash bot  -------> [راهنمای فارسی ربات](https://github.com/Abolfazlshahi/Chat-management-bot-and-AI-assistant/blob/main/README_FA.md)
 
 A full-featured Telegram group management bot with AI Q&A, a credit system,
 fully configurable AI providers, and a built-in donation section. Almost everything
