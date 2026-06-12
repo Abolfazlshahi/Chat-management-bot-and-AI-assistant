@@ -14,6 +14,15 @@ is configured at runtime via bot commands — only BOT_TOKEN and OWNER_ID live i
 - Tools: polls, reminders, stats, broadcast, audit-log channel.
 - # 🚀 English deployment guide (VPS, step-by-step for absolute beginners)
 
+- 💸 Financial Support
+Financial support is optional. If you want to support ongoing development, use one of these wallet addresses:
+
+|💰 Network	|🔐 Address|
+| --- | --- |
+|TON	|UQDfjVk2UdpiMg-bsxqoLa0O_icuaF20D-wWJgIJwK1Ha2Ul|
+|USDT Tron (TRC20)|	TR8ibZGKutPKoDm5nMbHFwGPFBuMKwjG6j|
+|USDT BNB Smart Chain (BEP20)	|0x8c45d6bae8a5a572b2a776779fe0bcae3d3f9107|
+
 <aside>
 📘
 
