@@ -16,8 +16,8 @@
 💸 حمایت مالی
 حمایت مالی اختیاری است. اگر می‌خواهید از توسعه ادامه‌دار پروژه حمایت کنید، از یکی از آدرس‌های زیر استفاده کنید:
 
-|💰 شبکه	|🔐آدرس |
-| --- | --- | --- |
+| 💰شبکه |🔐آدرس |
+| --- | --- |
 | TON	| UQDjrFdQK9hI8_m8yS-1JIkO_vNs7fjvGzbFDNgneenTKkYh|
 | USDT Tron (TRC20)	| TUJgXLeVerr5QYxqr9RLYTQayanfnPgbAR|
 | USDT BNB Smart Chain (BEP20) |	0xab83ebB5c57887E464B11AA2e2C919F1b33336c6|
